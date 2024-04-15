@@ -1,0 +1,21 @@
+.img1{
+    width: 300px;
+    border-radius: 17px;
+}
+
+.more1{
+    background-color: aquamarine;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 17px;
+}
+.delete1{
+    background-color: red;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 17px;
+}
+.flex2 {
+    display: flex;
+    gap: 5px;
+}
